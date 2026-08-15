@@ -57,3 +57,5 @@ workflow's `deploy` job.
 > Note: the Slack post only happens in local/cron runs where the webhook file is
 > present. The Pages deploy uses `--build-only`, so the public site never needs
 > the Slack credential.
+
+Last deploy verified: 2026-08-15 11:05 UTC
