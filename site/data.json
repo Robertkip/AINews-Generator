@@ -1,138 +1,196 @@
 {
-  "updated": "Wed, 23 Sep 2026 10:18",
+  "updated": "Wed, 23 Sep 2026 10:39 EAT",
   "window_days": 3,
-  "total": 74,
+  "total": 85,
   "days": [
     {
       "date": "2026-09-23",
       "label": "Wed Sep 23, 2026",
-      "count": 17,
+      "count": 25,
       "stories": [
+        {
+          "headline": "PolyU, Fudan Launch AI Healthcare Lab for Innovation",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQnJTekM2b3NEY29mdWFqQmg4Y0xOTTJmMFlpX3dmSHdpazN1OFJPbU9rZGtzd1FYaFF3OEc1YnZQSVVEalpacU45SzZyWU9aVWhQOHBOd1lKTlJrcWhKeFZXU0NrRU5pVlE5OU9yWlptNFN3eENtM1YtcGlRc1lxaEh3?oc=5",
+          "source": "Mirage News",
+          "pub": "Wed, 23 Sep 2026 10:28 EAT",
+          "ts": 1790148480.0
+        },
         {
           "headline": "How a reasoned look at AI can help dealers",
           "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOTdUYVlRcEFCQ21KV0czVzZmZzVadWRTaEZ5dGlsa1p0UEZhV3pmbFR6dmRjVTh5WFNucEw2Nk5ZeHQ4VTlLdjYxeTVVU1gyMThSUmxsSk1EUF85RGRVYnZlbWFSQ0J2SzZFZUx5MDdkTi1wQ1I1X0lDTFhuREpGczd1S01uQQ?oc=5",
           "source": "AM-online",
-          "pub": "Wed, 23 Sep 2026 06:57 ",
-          "ts": 1790135851.0
+          "pub": "Wed, 23 Sep 2026 09:57 EAT",
+          "ts": 1790146651.0
         },
         {
           "headline": "Stanford Exposed Using AI To Race-Swap Student In Promotional Photo",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1jckpXbzJPaDVkTHpnVVJ6Qi10d3lXbVN6RHhodkRvdDkyVGlKWU1wWlZrVWE3NGxYcmszdGV4SkZqdw?oc=5",
           "source": "YouTube",
-          "pub": "Wed, 23 Sep 2026 06:37 ",
-          "ts": 1790134643.0
+          "pub": "Wed, 23 Sep 2026 09:37 EAT",
+          "ts": 1790145443.0
         },
         {
           "headline": "Ghana government to regulate AI risks without stifling innovation – Minister",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUlcyN18zWVdpTTVTd21OZnZfMS05MlJjSm5oM19GQzM3ZG5wc0FkaTNUaHBoTTdUNFRPN1ZBRWo0NzRmZjRMeEplTzdQLTByWW5NUVFjbTF4djJLaURva1d3T0tlYjRuLVVkOVNjSlFiRkZUU3U4WW5kR0FHV1lwV1BzU2xVVGdLMDdEYUZ1RGZLa1M5U2dlZFNvQ3RDOW5ta1lTQTc2Q3lfSUtNWnNveGJYMGYxTEZrOFE5cA?oc=5",
           "source": "Ghana Business News",
-          "pub": "Wed, 23 Sep 2026 06:14 ",
-          "ts": 1790133297.0
+          "pub": "Wed, 23 Sep 2026 09:14 EAT",
+          "ts": 1790144097.0,
+          "summary": "Ghana's minister says the government will regulate AI risks while promoting innovation."
         },
         {
           "headline": "AI data centers: what Africa should learn from the water crisis in the US and Europe",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNb1EwQ1o4TzJKdXpHc1hTUEY3WHZBVTBKZjFnUkt6dEgtZXVzZkdnYzYxYlVjdVRfaTZjd1dCdDZtM1RIRl9WMGg0RS1FZ3Jaa3F0ZEtqeTFmdmJUbjlTcE5UWWxpYXpqaUNQTVg1MmVlSXFpMFltRUhTOW1TNjlKdFQyRkR6VFpJUWxhX1lPZTJ5UkdPYUlDYTRQeG9ULU9DS3luelZLZGtlNkJpWnFDQTdSQnpJQzFLdFBWTA?oc=5",
           "source": "extensia-ltd.com",
-          "pub": "Wed, 23 Sep 2026 05:57 ",
-          "ts": 1790132276.0
+          "pub": "Wed, 23 Sep 2026 08:57 EAT",
+          "ts": 1790143076.0
         },
         {
           "headline": "Morgan State University and Google Public Sector come together to build next-generation AI campus",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdkFSY1R5V0Y5VWt2WlI1N2xWWi1CUDgtSzczTnJsS3o0MFdZdUpaYUpjN3lNdVYyN0dXa2hBeFF3ZDlHVDlHX01ndll3WDFOeE9NRXJ5Z29MclYtcEplWGJFNl8xVHZtbmxYTk5tZzdwb2p2blI3OFY2cHN1d3I3V29LaWZpMWNPV016Z3lEcGllcDI5bWJydjVDS2c2c05KbVRTTUk3eEVSaTNvdmZTN3FxbGZlejZEWnlLeE4xUEx2Zw?oc=5",
           "source": "EdTech Innovation Hub",
-          "pub": "Wed, 23 Sep 2026 05:43 ",
-          "ts": 1790131422.0
+          "pub": "Wed, 23 Sep 2026 08:43 EAT",
+          "ts": 1790142222.0
         },
         {
           "headline": "PATEO Signs Strategic MoU with Arm to Advance Physical AI Innovation",
           "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNa2lQVUltajNUa0pQblpHLVFZMlNvZGo1aHA5OFhlQWcwZmNUU2c1VkxZY24tRjBuX09tSExiVnlkeWNYeUtUcWhhM2VhMXNSZ2ludS1ETXFOMXVRY2haTlhZbEU0VnBTVEF4azNXTlkzWm5PbzE3aGV5ZEJybk9uN1JhWFZvTGJRSmo4amF4MEFXdkdOelB5NDV5ZGEyLTlndG9ieVpRSFYxQ25GVnp3ZzNFclVCWEcxV3RtSE1TLTc0dk5jVVM1TjFZallDMnM5UmdJUzVJb9IB3AFBVV95cUxOSWxRVVJvTko4NmVmVDhTa3pyYmowQzI0NENmcC0yUHA3UXNWbHBLYkFQRnBsLVNjRTZVRGJxTWk1ODBYako1aW5Pb2gwZEFfTmcwczlEaFUtRnJtV0RRUnF5b01OdDQ1aEh2ZlhteGJiU3hRLU1NanNJOV8tMlJocHlrY1pOMG1TMXg0ZHgtWEkxbzdVNzZPcU1SWEg0YjBZTkRSUW9QeDRiQzB2QjFJZEdzakVOQVBxNmJ6QWJTQ3hzY3A5eE1TeUREM3pOOTJHendfTHBEaXNwT0hj?oc=5",
           "source": "The Manila Times",
-          "pub": "Wed, 23 Sep 2026 05:31 ",
-          "ts": 1790130701.0
+          "pub": "Wed, 23 Sep 2026 08:31 EAT",
+          "ts": 1790141501.0
         },
         {
           "headline": "German and Dutch Agencies Partner on AI Chip Design Innovation",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbjV3MmE2WThLSjVhaFp4enB4NjNWWjItM2VkUF9kNGVGdVlvc3l1azhUSzBEUkVqT3Q0aWNHdHVzQnpJVUF2SGl5Ujh2d0M4TjR2UkMxaVJtUnRCVk9Cb0ZFZzlvWUlfaVVrdmJyTW5BUFVmbDBXaF91dTVvRUo1MTlFSmlVZTBHMzU3eHppX2x5NEZWUFVQemJVWVJteVk?oc=5",
           "source": "Global Banking & Finance Review",
-          "pub": "Wed, 23 Sep 2026 05:23 ",
-          "ts": 1790130237.0
+          "pub": "Wed, 23 Sep 2026 08:23 EAT",
+          "ts": 1790141037.0
         },
         {
           "headline": "Kenya, Anthropic advance responsible AI collaboration",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNME9fNVJZVU1QbHVPVkpoWjhYZnFVV1A2aXZhLTRXMHlSRjQ4bnBZYlYxUDlZbjhsSW04bjQyQzBrZEpYZUtPSFMyQ3VnOUdxSnp2ZDVGVWZoMHA5YlAwdE02c0Z2NXVYUkJodHNPR1NSMzlMQzQ1TzVYdTJFSTFzdg?oc=5",
           "source": "KBC Digital",
-          "pub": "Wed, 23 Sep 2026 05:19 ",
-          "ts": 1790129966.0
+          "pub": "Wed, 23 Sep 2026 08:19 EAT",
+          "ts": 1790140766.0,
+          "summary": "Kenya collaborates with Anthropic to advance responsible AI."
         },
         {
           "headline": "South Africa discusses protecting musicians’ authorship in the AI era — Daily Maverick",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMHlYVWRFUkNaOXRueFZnUEVJLXlMeGFzM2RnZzBNNnpxSXdWMDZFdnh2RnVzTXRMbFBSY3lGWmh1bkF0d0xDUEE3OXl0LUw1TmpLd0NJWVpXLUxhcTkwdVdCUFlmc29ybTg4WW85UU5pbno4cUN6T3I1Z3BLSUdYX09OYlo2SUIwT3Q5OFUtNm1VSGNLbmZDaG9MZXg4aS1HUm9yR0NkbVA?oc=5",
           "source": "UA.NEWS",
-          "pub": "Wed, 23 Sep 2026 05:13 ",
-          "ts": 1790129630.0
+          "pub": "Wed, 23 Sep 2026 08:13 EAT",
+          "ts": 1790140430.0
         },
         {
           "headline": "German and Dutch strategic innovation agencies to collaborate on AI chip design",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVVV3UDM4dHB1NTlPN2dsZlV6Z2JPclpsQmxUM3F3VW1scGZTb2txM3M4dVFhUWsxYUdvRmdtTmVXcU1SN3JhSG16N0EwSnUyS091RDNPMUU4TlRwLTB3ZjJEWFdCcTV6Zkd1ejZ4aVpscl9BU1hvVnFPZUROV2VvNjBLYU1pbTE3T0ZEZ2h2NFFxNldpX3Z1S3BUY1FyUFNjd0N5QXdtVllyUFE0S1FqcDRzTjBQVXZfX2U3OF9IQQ?oc=5",
           "source": "CNA",
-          "pub": "Wed, 23 Sep 2026 05:04 ",
-          "ts": 1790129063.0
+          "pub": "Wed, 23 Sep 2026 08:04 EAT",
+          "ts": 1790139863.0
         },
         {
           "headline": "Stanford University removes promotional photo altered with AI to replace student, violating policy",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQc2tFRWx6RXQ1cHFrX2dEMS1CNFJYXy1tNkgycUNvZlpBM0Zxby1hU1AwNVFkd09Fa211YTJPQlZVcXZBclFMZEZNQ3h4TnlJb0ZCTmJocDNwckFOdU1FVVVJcnlINnNuNDVNdnltdGhWTzdkYm9EeDM2RVBqTUlSNzZ4QVJXUEFf0gGQAUFVX3lxTE92OEFaS0JDQnZRdDZ6TVlDckZGVm1hRUVKQ0tHaF91dS1lRDZiX01sNk1jU0ptdVhsZDRtaUxabV9oTlVwWEZHa3pBNVpXVHJjSWtaVDV1d1Y0eHJicko5d0NNeXh5ek1GQ1RHckhVenZWT2dlRkVNUWFlN2JfaWJUeXVBQXBoaEN0azB4a0tPbA?oc=5",
           "source": "nbcbayarea.com",
-          "pub": "Wed, 23 Sep 2026 04:50 ",
-          "ts": 1790128245.0
+          "pub": "Wed, 23 Sep 2026 07:50 EAT",
+          "ts": 1790139045.0
         },
         {
           "headline": "Rosenbury, Walkowitz address Barnard debt, international student protections, AI usage in roundtable discussion",
           "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOSUk1c2hIcjVrMDNZZzQyM01aczFaYm5wcTVWVVhBa0N0YktBOVVSalc0MmVlWjl5R0FnT3dqMFgzUlMzekNaU3hBOEJ4T3R6cWlvN0JtdXdhOXBiT1I3blhjMF9aYW1LMmc2eW9sejhyeE1PVEtFTHhpUmJhRzlick9VOEVYNXdqeGYtU29EWm1VSFQ5MlI3bmljZ0tLZkxXamx6cFVaYVZHdUNQdVUzTlh1dC0tWkY4TkF6Z2pHZWhYdWtzcWt1YzctQUZ0TXp5TXNNMndnOEkyckJqVjYzSHRSb1BYbHBVMWJTVmNCVmQ?oc=5",
           "source": "Columbia Daily Spectator",
-          "pub": "Wed, 23 Sep 2026 03:50 ",
-          "ts": 1790124620.0
+          "pub": "Wed, 23 Sep 2026 06:50 EAT",
+          "ts": 1790135420.0
         },
         {
           "headline": "Stanford used AI to change student's race in a photo",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRTA5blNsRjI5Q25FWDBzZTZROTF6eklrdXN4QUtQcUZuZVJoSE8tanA1THU0LW5vZlp5cG0wOWlyTHY5VmoySHdrZ2YxRzlHc1p6U0dfbGVpbXVmNGdnRVRxaVBGS3pfWEFSUEVBSGF6UjlheUo5SUNfRE16NUJ5NUhjMWtYc2dub3lSRUstZXFBZEY2VUtJM1Q1OUJKUE12dGUtbnFHZ0pCRVFaMDBaRHhOaw?oc=5",
           "source": "The Seattle Times",
-          "pub": "Wed, 23 Sep 2026 03:42 ",
-          "ts": 1790124156.0
+          "pub": "Wed, 23 Sep 2026 06:42 EAT",
+          "ts": 1790134956.0
         },
         {
           "headline": "Stanford University Violated AI Policy by Replacing Hispanic Student with Black Student in Photo",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSzYyekx4dV9jdG51MjJOY1lGNU1WTXRBQnlLMDVDTnljOEJUd3ZfMVp5VWphdkN6MnlhNUd2dUdUdXZTZnNtVmVYdC1CRmpwQlpGNVhJQVJBWmktTGJQanJQZWlqUG1VR0VKOHBDS3llTFE2RlFqTEdjLWhyOHpjZ0twbUcwTDY1YnVDdHhKcnBTQ3VkQ0JkVjdtdkY0empDcFJhZndiZWJCR0VXZWN5akVxUW9hQ3R1U1E?oc=5",
           "source": "People.com",
-          "pub": "Wed, 23 Sep 2026 01:48 ",
-          "ts": 1790117291.0
+          "pub": "Wed, 23 Sep 2026 04:48 EAT",
+          "ts": 1790128091.0
         },
         {
           "headline": "LCPS Preparing to Pilot Student AI Use Amid Tech Cost Increases",
           "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPdnZJcWRMTnlCbVZTZFJKQV9CY1J4MzQzaEM3YzJqdzR1TGVPS01pSnlocFQ1M1VyazF6VHd3M3hJendrcmVaOF9SOWNIdWV5ZDBDNzhOMDFOZDRLOHZraVRsQWtRSDQwNnBsR0FNTUQwT3NOYmhqZU0xVEthcl9jbUtSMjF1dWdwMzlFZFZVWFRBeGhJN3I5Y0lDZllxQTJNWHI5WjljS0NMX1A1cVRPSHVDVXJYWnBGbXBQUTVtNmh5LWpqSTV6dVNnR29oczZQcWV6aklreVg2ODdoQnc?oc=5",
           "source": "LoudounNow.com",
-          "pub": "Wed, 23 Sep 2026 01:40 ",
-          "ts": 1790116800.0
+          "pub": "Wed, 23 Sep 2026 04:40 EAT",
+          "ts": 1790127600.0
         },
         {
           "headline": "Stanford University replaced a Latino man with an AI-generated Black woman in a photo",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUGNNck9wQ1poemFtOFY0Y3hXWFpfb0dIZ3JQMjVwZXozbmJpRkRtTEVOOUowSl82MTNMUTRHU3NvTDAzbFJQUVh1Q2dfVDFjT3c5ZzYxYWdSeVpEME9qYmlOc25uRS1nTWotaGw1SFJzWDdnMTRvaFBVUUdONXVvc3RNb1lqUkdINk1YZzVtb0tablgyaFFB?oc=5",
           "source": "The San Francisco Standard",
-          "pub": "Wed, 23 Sep 2026 00:10 ",
-          "ts": 1790111400.0
+          "pub": "Wed, 23 Sep 2026 03:10 EAT",
+          "ts": 1790122200.0
         },
         {
           "headline": "Stanford violated its AI policy by turning a Hispanic student into a fake Black woman in ad",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUm1OYVc0MFRqa3luX1E4Ykc2ZHN2cV8zQ2pKZ0dLWnQ4NUZHY3k5ckh5bFZzcUtLaExSR3ZhTDl4WjdDcFcwYnlaQ05BVVN0MkljT2doTVQ1eUZwVGR4bUQ0cnRoWS1JTGxNQzI2NmtvUzB4UU1DQVpBY2gxMFo2Z2ZRNjBCcjZqSEJYbVUxajB0MTR0OHBHdWhaOE9XMzhRTGpha0VB?oc=5",
           "source": "San Francisco Chronicle",
-          "pub": "Wed, 23 Sep 2026 00:08 ",
-          "ts": 1790111326.0
+          "pub": "Wed, 23 Sep 2026 03:08 EAT",
+          "ts": 1790122126.0
+        },
+        {
+          "headline": "The Push To Close The Gap As Africa’s SMEs Embrace AI But Fail To Reap The Rewards",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1idDVoTUNtcl96dThiWW1KUHRWdkk4X1FpSTVGN0tFcFo0TjNZdFBIVGJNOW5GOXZBOEhKa1pjRk9Jdjd1TGd0Z2w4Ui1ocTI4TXBpRlNSM256b05XSFFsREk3Ykp1aXBieG0zVlZZY2VzZw?oc=5",
+          "source": "WeeTracker",
+          "pub": "Wed, 23 Sep 2026 02:58 EAT",
+          "ts": 1790121509.0
+        },
+        {
+          "headline": "University of Illinois embraces AI with student-built ‘Illinois Chat’ platform",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVFdwYmdJc3FaY3d0S3lDWV83LWlLOV9Mc3luRVg4SS1HVUxKeFNfQkNqTWlIMkRwMVVZTzdVcm1rTUVES3J6UTQyUmUwcEhDYnpSYlJRNnkzVW53aU9vOGFfTkg1Y3VOcmsyajRwaGJUeV9qeTVHSjRob2ZxNVZwSFYtYkZ5R0cxMEN0bnQ5d1M4NEVDSHhoejZPdG9FTS0ySzRZZDA1TERENG16UUJURG9SZkQ?oc=5",
+          "source": "wandtv.com",
+          "pub": "Wed, 23 Sep 2026 02:49 EAT",
+          "ts": 1790120940.0
+        },
+        {
+          "headline": "University College London launches £30 million national AI research lab",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNamxBcnEyUXZwVGtEbU83TG1NRFRuMHMtam0tWEk1WGFVd3R4bVZUYWVnVDI2eW1nQXd4TEgtUWFFblI1R0h5ZUFOQXo4VUMyZ1k4elJoSk5LVF9uTXo3LVFaUndtNGhUQjVKOTBhQTRpUW1GdHFJRUdnZ3hSQ1J4bDJpbEI1c1FpOGNTT2dQeWlZRWhMOGp0alhYWnQ3bF9HNy01ZEJXODJ0ZG1hdncyUg?oc=5",
+          "source": "EdTech Innovation Hub",
+          "pub": "Wed, 23 Sep 2026 02:15 EAT",
+          "ts": 1790118957.0
+        },
+        {
+          "headline": "Stanford Used AI to Swap Black Student for Hispanic Student in a Photo",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQXzFCelM5TjdtYmM4cmJmNHplUXhfLUhpbmpJRlZNczl1clM5WkZZakRMRnZobGVDYVFiRV9tald0N0twenZkMWZSYUtMeWhMWHU1ZWlmcDlLTnFvVmtwOEJfbXcyX2FJSWNwa2dabGZYVmdpbXQ1UTJEb2FkUGtNOHd0RG1pcktFNjhtY01IZGZJcmtKVmh3R0VQRmJTSlZSNktn?oc=5",
+          "source": "GV Wire",
+          "pub": "Wed, 23 Sep 2026 01:26 EAT",
+          "ts": 1790116002.0
+        },
+        {
+          "headline": "FSLY: Unified edge platform, multi-product adoption, and AI innovation fuel strong growth to 2029",
+          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxObExUYkxSSnpEbGxrNlBxMjdzd1hHbE1PN1pzMW8zNTU3TjRPbUtRWFNyc3preG92V2hLQVJad0FoSUlMaldYcHBCbmtvUjlxUnBkQWN6ZWNZOHdKR3BETEdNWHFaS3lGOGFhUU5PT1ZuVmthcE9obFdiaW94QTgtRTdOLXpZeE5GckxYSGUxWGY5bUpSOWMtd1Y0TU1zdXl4aXZLd3pZQnVySnM3NVlTNXlQcExadUxCalhKdXlQSHpZdk00eWgtVHVJYnR5ODJ6cWlNSVJfYVpEU0g0dzRwdldFNGpGUFpLcG9SZVBUaDBuTWRjV1lDbHFJREhLQnhQMUllTHRnNkJWS0NQTmc?oc=5",
+          "source": "tradingview.com",
+          "pub": "Wed, 23 Sep 2026 01:21 EAT",
+          "ts": 1790115661.0
+        },
+        {
+          "headline": "SSE Dean Talks Human-Centered AI, Innovation, Governance at SLU-Madrid : SLU",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUDNMaEFwQ3FMVzV1c1JmTEQ3M1F4RG5BNkI4TFRBN1ZVeFlsY0Fsb01OVDZGWFcyWGlJRlgtXy1DMG9wdjFNaW5oVGpWTjdOWW1rZ1dDNUQ4RHRLZGRtUFJrdEJxM0IyWDk5X1FHbGNmZ0haMXdTME9vLW84Y2xtMmdyOXB4eEt3ampsOWR2WHpYUVBPenJOczBUOA?oc=5",
+          "source": "Saint Louis University",
+          "pub": "Wed, 23 Sep 2026 01:14 EAT",
+          "ts": 1790115271.0
+        },
+        {
+          "headline": "Student paper explores possibility of ‘water-neutral’ AI data centres",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPS3FCNHVwOUVEUkNDeUN6NTlGak9ZQTR1OWpzQWV1eEpqWkp4ckJuVVpycXJHUGR5NTJpVHB3dG5ReDVCNFdLNEh3U3hhQ0MwRnI4VDZWVTZsb21DQVJ1UFNMYWtSOEpmbld2dVpLX1BURUhCekl3TG15Sm9EWTlzQ2pNNDJfNWRrWUI4RFpsNHlRZ2JZeFVaZXNDMVBka2lkaV9V?oc=5",
+          "source": "The Eyeopener",
+          "pub": "Wed, 23 Sep 2026 00:10 EAT",
+          "ts": 1790111457.0
         }
       ]
     },
     {
       "date": "2026-09-22",
       "label": "Tue Sep 22, 2026",
-      "count": 45,
+      "count": 48,
       "stories": [
         {
           "headline": "The Push To Close The Gap As Africa’s SMEs Embrace AI But Fail To Reap The Rewards",
@@ -156,6 +214,13 @@
           "ts": 1790108157.0
         },
         {
+          "headline": "Stanford used AI to replace Latino student with Black student in promotional photo",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdFpvV1RfM3dyS0JTNUxNUUgtbE5PVm9NTTNDRW55d2NvcG13YzVhcjlnTXkzUDBobW96a1V5NjhVSldZZmxlS1pWMFpEZk9Ob2RHMVNiZy1TdXpxN3VURnI2TjJ1NVFhdGR5NWtJLUc0RkVqU255cU1INExIcDA5QVFNMnJaRzZXWjExLXFmczY0TTdWclNNY1dWQk1UTm0zTkNGbjFiRTZYQ0czX25rNC1aLThVUQ?oc=5",
+          "source": "Washington Times",
+          "pub": "Tue, 22 Sep 2026 22:54 EAT",
+          "ts": 1790106871.0
+        },
+        {
           "headline": "Stanford Used AI to Swap Black Student for Hispanic Student in a Photo",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQXzFCelM5TjdtYmM4cmJmNHplUXhfLUhpbmpJRlZNczl1clM5WkZZakRMRnZobGVDYVFiRV9tald0N0twenZkMWZSYUtMeWhMWHU1ZWlmcDlLTnFvVmtwOEJfbXcyX2FJSWNwa2dabGZYVmdpbXQ1UTJEb2FkUGtNOHd0RG1pcktFNjhtY01IZGZJcmtKVmh3R0VQRmJTSlZSNktn?oc=5",
           "source": "GV Wire",
@@ -167,6 +232,13 @@
           "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxObExUYkxSSnpEbGxrNlBxMjdzd1hHbE1PN1pzMW8zNTU3TjRPbUtRWFNyc3preG92V2hLQVJad0FoSUlMaldYcHBCbmtvUjlxUnBkQWN6ZWNZOHdKR3BETEdNWHFaS3lGOGFhUU5PT1ZuVmthcE9obFdiaW94QTgtRTdOLXpZeE5GckxYSGUxWGY5bUpSOWMtd1Y0TU1zdXl4aXZLd3pZQnVySnM3NVlTNXlQcExadUxCalhKdXlQSHpZdk00eWgtVHVJYnR5ODJ6cWlNSVJfYVpEU0g0dzRwdldFNGpGUFpLcG9SZVBUaDBuTWRjV1lDbHFJREhLQnhQMUllTHRnNkJWS0NQTmc?oc=5",
           "source": "tradingview.com",
           "pub": "Tue, 22 Sep 2026 22:21 ",
+          "ts": 1790104861.0
+        },
+        {
+          "headline": "Stanford University admits AI was used to ‘race swap’ student photo",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVWdsUXJESUNST1BxbWhDZDFnamJQVXQxOE9UZ0FVelp4VVU4Nk81bHZTUmxEZmVKX01yeFFSNmVVcHI3d1ZicjNPZXhXNVZDLWNCSjBkYUV0ckRYMlRhN1Ztdl9qcldhNE5HTnJZTWlGVDNseHRvQUJUVWUydzZxNkh2UFNhYjc4d285Mm9n?oc=5",
+          "source": "Straight Arrow",
+          "pub": "Tue, 22 Sep 2026 22:21 EAT",
           "ts": 1790104861.0
         },
         {
@@ -184,270 +256,280 @@
           "ts": 1790100657.0
         },
         {
-          "headline": "Stanford used AI to replace Latino student with Black student in promotional photo",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdFpvV1RfM3dyS0JTNUxNUUgtbE5PVm9NTTNDRW55d2NvcG13YzVhcjlnTXkzUDBobW96a1V5NjhVSldZZmxlS1pWMFpEZk9Ob2RHMVNiZy1TdXpxN3VURnI2TjJ1NVFhdGR5NWtJLUc0RkVqU255cU1INExIcDA5QVFNMnJaRzZXWjExLXFmczY0TTdWclNNY1dWQk1UTm0zTkNGbjFiRTZYQ0czX25rNC1aLThVUQ?oc=5",
-          "source": "Washington Times",
-          "pub": "Tue, 22 Sep 2026 19:54 ",
-          "ts": 1790096071.0
-        },
-        {
-          "headline": "Stanford Used A.I. to Swap Black Student for Hispanic Student in a Photo",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSzNfSTlJb0IwNEhqVVM3TV9hMkFvdVJJQ0tfQWpEeTE3SHlIYWFjUXZpbVpPVWdzYmxHWUU5c0RmLU84RXN1Q01NM002cE1QZkNEcGVBdHRlSHFzMU9zM080MXBXVlJtTXMwc0xNV1NKeHdzMmtWc1E0TnB5VnA0THUxMlYxNDItN2J1ejJR?oc=5",
-          "source": "The New York Times",
-          "pub": "Tue, 22 Sep 2026 19:46 ",
-          "ts": 1790095573.0
-        },
-        {
-          "headline": "Stanford University admits AI was used to ‘race swap’ student photo",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVWdsUXJESUNST1BxbWhDZDFnamJQVXQxOE9UZ0FVelp4VVU4Nk81bHZTUmxEZmVKX01yeFFSNmVVcHI3d1ZicjNPZXhXNVZDLWNCSjBkYUV0ckRYMlRhN1Ztdl9qcldhNE5HTnJZTWlGVDNseHRvQUJUVWUydzZxNkh2UFNhYjc4d285Mm9n?oc=5",
-          "source": "Straight Arrow",
-          "pub": "Tue, 22 Sep 2026 19:21 ",
-          "ts": 1790094061.0
-        },
-        {
           "headline": "This news ‘innovation lab’ will replace investigative journalism with AI-generated lifestyle ‘content’",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPa0ltaE83cEJyejVndUxEUmRkV2Y4QmMxd1BOaVRqQ1F6a0JPUHU2WW8zNHBzZ0JZeVBORWRjdnMweWdzRDFaNW1uTTFPWGI0X3ZLWTZCczRLTkw5WHZYbnV0Nk1DdGxsRm02ZXo0NHhNVTdUWkM2cTA1cHpISXRRWlNtYkFBeHlaWmZEbDR5S1hhZmVJY2YxXzI5bEo5T01BbXdzTnByMzBGU01RRVV4Z3lyVl9mMW54bEE?oc=5",
           "source": "Straight Arrow",
-          "pub": "Tue, 22 Sep 2026 17:00 ",
-          "ts": 1790085600.0
+          "pub": "Tue, 22 Sep 2026 20:00 EAT",
+          "ts": 1790096400.0
         },
         {
           "headline": "Stanford University Accused of Using AI to Change Race and Gender of Student in Advertisement Photo",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVEQ2THktZWtUbUdHTlVqeGg5T0ZibXhNYlRFa0pxZzZteTlMQ3plaWwzOFlsRGJqM0xja0pZdXBnbDBKVDdHTmlWd2ZVV2xBMEgzSW5Wc045VnVORE5oSkhQTWVqWjB0MUZTU1hSaS14cWJRNGlIaDZZWlVvbzhkSHFhc0RqRjI2RWtONERsTjZQRmZx?oc=5",
           "source": "Yahoo",
-          "pub": "Tue, 22 Sep 2026 16:47 ",
-          "ts": 1790084852.0
+          "pub": "Tue, 22 Sep 2026 19:47 EAT",
+          "ts": 1790095652.0
+        },
+        {
+          "headline": "Stanford Used A.I. to Swap Black Student for Hispanic Student in a Photo",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSzNfSTlJb0IwNEhqVVM3TV9hMkFvdVJJQ0tfQWpEeTE3SHlIYWFjUXZpbVpPVWdzYmxHWUU5c0RmLU84RXN1Q01NM002cE1QZkNEcGVBdHRlSHFzMU9zM080MXBXVlJtTXMwc0xNV1NKeHdzMmtWc1E0TnB5VnA0THUxMlYxNDItN2J1ejJR?oc=5",
+          "source": "The New York Times",
+          "pub": "Tue, 22 Sep 2026 19:01 ",
+          "ts": 1790092886.0
         },
         {
           "headline": "Trump rejects global entity for AI oversight",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWjFSMGM0WDEzdFVqc3RrczI5d0JkSTlzX0pUTVFpa1V6bGh1UUZxeHNsTDNmRkJOQ2tGUWh3NnJ1MzZBclF1QnpCeHg1ZjR6cVZ3cU9jbUp6SzVWMFY4WFZZUmVQOE1mczBPdGR1TTk5VVNMTFlWc2Y3cjBGWkJSVElfZXMtbTRaWExTTnZCY0tJQ01i?oc=5",
-          "source": "Politico",
-          "pub": "Tue, 22 Sep 2026 15:58 ",
-          "ts": 1790081880.0
+          "source": "politico.com",
+          "pub": "Tue, 22 Sep 2026 18:58 EAT",
+          "ts": 1790092680.0
         },
         {
           "headline": "ThisWay Global Introduces its Sovereign Blueprint, a Framework Establishing Sovereign AI and Digital Infrastructure Innovation",
           "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQYjN4SjVlUzJQQ2g0RHFzTFJobXpuQlc0aEF0QmhOaUJoYXpBV0VNcVpSYXdFZWJmc21VMmFBOGZ1MDY5VXl6WUlQLVJ2RU5qN2oydjlNcVhCbDZJQTB3Ym9pU3NSOVVtQ21aUjJSR3J2YWdvX1drWHpGRkoyTk5nVmJFbmVVT0I4TktjbGRXa3U0TktLd0RmQnE4YmNVTGV3UnN1cURueUJ1YmVzYWhDUmZIZ1BBSUE1WlRiT0VlSVpBVFltRGNhQUxEODNKMjE0ZTNIR0VaTnB1alJxbkxQYUNfQ0s?oc=5",
           "source": "VMblog",
-          "pub": "Tue, 22 Sep 2026 15:54 ",
-          "ts": 1790081695.0
+          "pub": "Tue, 22 Sep 2026 18:54 EAT",
+          "ts": 1790092495.0
         },
         {
           "headline": "Tencent Cloud and Boost Partner to Drive AI and Super App Innovation Across Southeast Asia",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUmFOVjhtcnVJUUY2YUp1dHhpNXJuOWIyVElGenViT205R2lZUDNCWTctdEt1WC16RGVOTlZRQk1DNlB0Y1dLUUN1ZG41QmJ6c2RjSjVlR09GcGM2ZTltUEk5cHY1QmNpeFZnb0hLcmM0cy1ETDZiMlhLbjdCODg4S3pwdjRhRFduZVdWTWZNdHlHbDJUSzNfRjBnbkhoRGRQRnJVeUdYQ3BSQm5scXpfd3lnMA?oc=5",
           "source": "FF News",
-          "pub": "Tue, 22 Sep 2026 15:07 ",
-          "ts": 1790078875.0
+          "pub": "Tue, 22 Sep 2026 18:07 EAT",
+          "ts": 1790089675.0
         },
         {
           "headline": "East Africa must future-proof its citizens against AI species",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeTVVV1FSblhTQml6M2ZjTnZadEpqVXhEZ05ZTWk0b1B0VmF0aVlyQWhDaTZLNlFCUmlTa3VMc2h1TUdXOGdSMUZnNUhSenhpWnN6ZFNUaGw2cXF6clB2UkhRZWdIMGFaMEtDUVo1QjdTVUVLaHJfTHNjMHF5UlNlbmdFVUU4S2dFUW12MzZaUENLTlQtMEVQM2g2ZzJSZkpWaEttQjBqRFJIeTNndTc5MXRaay1RWkd3YVdYNUtadXI1ZlJzYXlwTg?oc=5",
           "source": "Business Daily",
-          "pub": "Tue, 22 Sep 2026 15:00 ",
-          "ts": 1790078400.0
+          "pub": "Tue, 22 Sep 2026 18:00 EAT",
+          "ts": 1790089200.0,
+          "summary": "East Africa needs to prepare its citizens for the impact of AI."
         },
         {
           "headline": "The EU AI Act’s Costs to American Innovation | Blogs | Sep 22, 2026",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMFk4Y1VpM3I3V2hNOXhmVUdieUIyYzFvV1h6am1ZeUQxTUdtRFljNVdNakFaOTVmd0doNnVuZ21neXJoX0ZVTzFGVUw3aGhTeDBOOE9SR3h5V1lxc2RkcDQ5Zm04enl1UzVwMW0wd3NObXdHLXRJSFVoY1hHVUNKVnpqUjZUS2FaRGd2TGRB?oc=5",
           "source": "Information Technology and Innovation Foundation",
-          "pub": "Tue, 22 Sep 2026 14:48 ",
-          "ts": 1790077733.0
+          "pub": "Tue, 22 Sep 2026 17:48 EAT",
+          "ts": 1790088533.0
         },
         {
           "headline": "Leicester launches AI student helper as it pushes to lead the sector on responsible AI",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcDlxdExVWWoxZXV0WmxaWTFidHk2SUJzWUM1bjJlbUxOUTFrbWwwal9sTVpZbWJraG9wSEZubUlTWlFSWmNHMGo3WlR1MWprcVVCbkFqRDFlNXZBVlN4eE1IaDBwbzZ4VXowTkotOHZUTHRKUXRhWXF5dGZkVEFBUHppQy1wTlM4djE0LVl0d1lEZw?oc=5",
           "source": "University of Leicester",
-          "pub": "Tue, 22 Sep 2026 14:11 ",
-          "ts": 1790075484.0
+          "pub": "Tue, 22 Sep 2026 17:11 EAT",
+          "ts": 1790086284.0
         },
         {
           "headline": "My 5 favorite Siri AI ‘onscreen awareness’ tricks – and why",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQ2VvZ0htTU03alpHSEhUVGxlamRFNThjSDFUWlVKVjNwMTlWVEJLQU9ESl9wR2dNbUhITy1DOE5oWlRldW42WmhSVWNyYUdKOG9XeGxoMFlyZ1VpTzgyRmtjWVQxRUlXZjdJcWV5bHQtMEx2cEw4WWhUNFprQjhEMExR?oc=5",
-          "source": "ZDNET",
-          "pub": "Tue, 22 Sep 2026 13:06 ",
-          "ts": 1790071561.0
+          "source": "zdnet.com",
+          "pub": "Tue, 22 Sep 2026 16:06 EAT",
+          "ts": 1790082361.0
         },
         {
           "headline": "U.S., China and UK stay out as South Africa, Canada, Germany and EU join 20 nations uniting to tackle AI dangers",
           "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTGZaZUtvZkN2VklSVWRzVjRGa00yUTRUM2RKQlZ1N1ZnOG9HVjZLMGktbm5uM2JYaE94TklDcEp6LS1aQVRGbE5KT1dMNTFwWm1YWk1VQjU0SjNEWk5QdjdYV0wwLVhQUnRCeDlScjJOTlNOZ04xOEMzSEhEUHhPZ2pJTl9NWEtLMDhCU1VmaEh2NWlPSXoxQVQ3d3JoblFVdmQ0RVhCVDBQa2FWYnRNQU5wV0NWUVk0Si1laElsQm04dVpWZ0IyeW52OXhMcm56ZlFCd1ZoTQ?oc=5",
           "source": "Business Insider Africa",
-          "pub": "Tue, 22 Sep 2026 13:01 ",
-          "ts": 1790071262.0
+          "pub": "Tue, 22 Sep 2026 16:01 EAT",
+          "ts": 1790082062.0
         },
         {
           "headline": "Egypt and NVIDIA Discuss AI Cooperation, Skills Development and Innovation",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdF82ZExYa3JuUE4wU2YzUjFzTVZJVDFxYTgtdzMxZ0NFem9pQ2kzMHVLeHNjVDRjZDUtQXM2UTgzdGVsZXlZUG83SGFYeWtTeTItaGMtX0hjUFctZS1ySDVUNjF0YWxjbDRuOTYzTGpkb2toRGF5TDRGWGNFMXA2amxTX0RZSk1OUTQ2a0hDMzNabFc1cEthV0hveldnY1ZvaEE2VjdxMA?oc=5",
           "source": "TechAfrica News",
-          "pub": "Tue, 22 Sep 2026 12:58 ",
-          "ts": 1790071104.0
+          "pub": "Tue, 22 Sep 2026 15:58 EAT",
+          "ts": 1790081904.0
         },
         {
           "headline": "AI in Therapy: Innovation or Detriment?",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZzM2Y2xlc2swcng1MnVpUzByRDNPUTNqRmtjejhOczBLQmlXSEhGdWk5RFd6WFRzclI5MnQyNlhUaVJ6MHpUTDBYZ2ZhSmZOOVBWWUFxbjBzTmpXLUxDdnNCczdaNTBzYlBZZi1NNDZyRjVXUE9CZ2RCQUZWSElES3hB?oc=5",
           "source": "Harvard Political Review",
-          "pub": "Tue, 22 Sep 2026 12:48 ",
-          "ts": 1790070480.0
+          "pub": "Tue, 22 Sep 2026 15:48 EAT",
+          "ts": 1790081280.0
         },
         {
           "headline": "Google Cloud Summit Doha 2026 celebrates the acceleration of AI adoption and three years of regional innovation",
           "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNZWdENWF6dzhISWR6WDZmWXZ5SXVFVWlkek85bjBhZndiMWhmWXA0ajY0cFZFb3Q2UllMMUs4TDJ3ajQzRHd4YW1JSmxkMy1pYmE5YWFsSmg2MkVCTzlRdUlkTHZWZVEzLUFIdDFLTUU5Sk5pVE1qYlg4SV9TUTRoWmdHdHhCM3g5OVgzMktDR2x0N3FYbE8zZlpPZHhub3FialM4QUdrYUlmem5fQnhrdDBpRFdxVlZ3cVJFT3h6blJZWjBHRFQzYUxwT2RuLVdWTVVUZExvNjVqektzaEdfbEkxXzB2ZWFXdVQyQnR0eFlJLVUtOVUzN2otSjk5SUlEbnZCUDBtcGo?oc=5",
           "source": "Zawya",
-          "pub": "Tue, 22 Sep 2026 12:44 ",
-          "ts": 1790070240.0
+          "pub": "Tue, 22 Sep 2026 15:44 EAT",
+          "ts": 1790081040.0
+        },
+        {
+          "headline": "Marist University and IBM launch AI innovation incubator",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVTdscmlwVG83QWRWbFFKWU54SEV2RmlYNTZoQ2JwS0xQMnVzdGdhZUNUNnhmMGxkODdWQjREVlhmTVh5LU9xUU1JeEhGWnlDT0NHYWNCNkhjOFcwWHpMb1BwdDdkYjctY09SMlUtVFRyY25aUGJYeDBIYXhhWEJ3TmR2WTFNbG9SNWhqd2Z6ZVJaUC1NUEVJYUx6V0ZQZ3NwSldHbUpsamFxdWNpN0E4QXV4SQ?oc=5",
+          "source": "Investing.com",
+          "pub": "Tue, 22 Sep 2026 15:42 EAT",
+          "ts": 1790080934.0
         },
         {
           "headline": "Vodafone Egypt Begins Commercial Rollout of Ericsson's AI RAN Processor, Among First Markets After Japan",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTDFreE5ZbXJPXzVDeml2Y2VxYmtQNHB3RlJzcmQwOWFGRTVMUGFHaW5nb3k4WTRhcmxUUHhZTHF1VFo2d2l2RHhhMldOMkZ4QURHdEJmbHBSamNLdDVzRGF2dkJrR0V2V3lBdzN4RGlRQ1o5ZGxXankzVDF5X2JpMVBDb2c3YlNOS3pMVjlFLVJ5UWNqdWNvVmw5c2UtUWtKaFJuWkJmU1hxcjR2dWhkYjlpcFdHQzl1YVJSenE5MTU?oc=5",
           "source": "iAfrica.com",
-          "pub": "Tue, 22 Sep 2026 12:04 ",
-          "ts": 1790067883.0
+          "pub": "Tue, 22 Sep 2026 15:04 EAT",
+          "ts": 1790078683.0
         },
         {
           "headline": "South Africa Seeks UN Commitment to Global AI Governance Framework",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaWVOTGFodVU0bW1hNzFtRHFoQXFvXzhsVlF6akFvdnVQY09UV3FubF9QMmFTejAwQlhCZEszbDN2NEp6WlpITkhqQzBRV3NGYkYxcE4zMjA4a0NXWU5mQmJQUnlEYkNKazhzN3M5WDNOX2d1TkwzYmhQMkNmRWlJa1hkVDYwS2dXc2hfYzZDQ2U?oc=5",
           "source": "iAfrica.com",
-          "pub": "Tue, 22 Sep 2026 12:02 ",
-          "ts": 1790067775.0
+          "pub": "Tue, 22 Sep 2026 15:02 EAT",
+          "ts": 1790078575.0
         },
         {
           "headline": "Marist University and IBM Launch Innovation Incubator with IBM z17, Expanding 50-Year Partnership to Advance AI Research and Student Career Readiness",
           "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQcFVGLWd5VVkzdThjY2FobmlxUm1zclhXVWZpM3NIcHpFS2tfdHJjYm5raGdHNEVzYk1oNkEyWlhFTGlieENENUo0UmRyNHRFdzRCS3d3enY2TG1FY3N5UmJrOU4wQlJoZWRid3N5SHJBWVRjZHhjX2gycWhVeFRndWNjZXFRMXBfQjZzeS1yUkw4eFdHX0V2eFVXV0JBY0x0TUQzNTg3b1ljV2Exelp4Y2xqWHZUM2xFOXlESnN1cFJudS1ucmJQWDdnS0R4bDFrR2N3YlJ1Wjd1SXZudGV5bTFOTXUzcmNEbU4zNVd6YWVGUGxIMkZtblczaXFGRmZ6MTlrU2tIbF9iNU00ZE1hSlZLYw?oc=5",
           "source": "IBM Newsroom",
-          "pub": "Tue, 22 Sep 2026 12:02 ",
-          "ts": 1790067767.0
+          "pub": "Tue, 22 Sep 2026 15:02 EAT",
+          "ts": 1790078567.0
         },
         {
           "headline": "Exclusive: KPMG reorgs AI division to create new incubator — with a new executive role reporting directly to the CEO",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMXQyQzF6RmJVTG1SZVQ5VmNJaEE2NEVzZ1I4NTFCbFpocS10RmRvZXpOOUxwSWpvcGFzdVkyTThsY0ZnaWV3RlNRTlo2T1VIX0ZLLVBVeDRHRk9HRlBXbnBaWFNDbzFNRUloQWxnczB4eFZkLXpTaFd5X1paNzJleEVVdw?oc=5",
           "source": "Fortune",
-          "pub": "Tue, 22 Sep 2026 12:00 ",
-          "ts": 1790067600.0
+          "pub": "Tue, 22 Sep 2026 15:00 EAT",
+          "ts": 1790078400.0
         },
         {
           "headline": "SimBioSys and Venture Café Phoenix Partner to Present Live Panel on AI, Innovation and the Future of Breast Cancer Care",
           "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQVGFqWWprUlg2VG9PMFUzUUlfZTRfTXVJNVkwbHB6TkU0MkVCNUNSdERIMklvb0hZZ0F5TzMweXZfUFUtOUw5Z3c4c2NWUnc1bDNLRVVhcEFDRk9scTBKQmdDbG5vc3BKRlRnRUt1aUwyUzF2QUY4bTBZWWxMVkthaWJyZ3lKb21wX3JaX19aWlRQX0JNbDNuVU9RNExId21GdlQ1NDNaRjUxNmxFcWNYOEJiWTNXaWRqN0dNaWxSakNNMDBHRGlYTnU0TkxtTTRvTHgwdk50Ykw3ZTJ1bklPNXZqYlE5ZHUyem5TeGROajJXMTBmZmNkX1dSaEtPcjZ5bElocg?oc=5",
           "source": "PR Newswire",
-          "pub": "Tue, 22 Sep 2026 12:00 ",
-          "ts": 1790067600.0
+          "pub": "Tue, 22 Sep 2026 15:00 EAT",
+          "ts": 1790078400.0
         },
         {
           "headline": "BRKR: AI-driven demand, innovation, and strong order growth in China and semi support 2027 outlook",
           "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQcElDaU0xd0pJZHlTZ1dyQ1FzZ05URHJqWWhCRUdPQWZGRFVqYnhVV1BISEVhc0ZNVm5PVHJENmNrVm81Vks5b1B1am5QNV8wQW92ZmdWT0RUTWx6R241ZWp5STRJa1Y5c3pmZ2dQaGI2V2dQbGVTb2RoY01hZ1UtTFpjSFFOLWJhendxT0xUMjFqMkZFN09PdVdTUmExUEl0Y0EzOW42MlpFMUc2T1BXTzZzeXVCTE5NNGhwQlVDX2ltRk5OOHVfbkp4N3dFeks4dXVqUld0TVVuUWtOUW10Y2dnQjlCVk0wTmRRdHp3bl9PdkZqY1ZhUXhQTGp3bTZLOXRqdzEzSmFNcTNXTjZJ?oc=5",
           "source": "tradingview.com",
-          "pub": "Tue, 22 Sep 2026 11:58 ",
-          "ts": 1790067527.0
+          "pub": "Tue, 22 Sep 2026 14:58 EAT",
+          "ts": 1790078327.0
         },
         {
           "headline": "WSO2Con Africa 2026: Building AI agents that can handle long-running work",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWERnWWtjMHBrTGpUcThWOV85RkNycWZxbkxKR3JibEFoYnpKLWJmTzJuM0dvaXhlb1VDdE9VZlRLQ3ZRUVZEMHY1SXd3UVVob3p3NnBzMllTWFZPdlZYSVdwWVVaYkJmSDJ6Tzlfa2g3R1IxUHd0ak9panRISjFmTmZn?oc=5",
           "source": "TechTrendsKE",
-          "pub": "Tue, 22 Sep 2026 11:29 ",
-          "ts": 1790065765.0
+          "pub": "Tue, 22 Sep 2026 14:29 EAT",
+          "ts": 1790076565.0
         },
         {
           "headline": "AI innovation should be measured by impact on people, Josephine Teo says at UN platform",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTkdDWnB5U19LRGNpeVJyY04tYnJpQW96dEVZcWpRU3pfd3NuN0wtZ0RjT2IxSlE3ZG1kU1ZEVzYtamRCR3RDZ1lCWHdReFNZWnZHN1RZQ0N6YXdvT3VSSE0tOUl4djBJS0o4NjExLVRFczBxNV9OMTlqSFNib0V6ZHM3dDVpM1QzVkNidVBrZVN4enEyS2hycGh5S1NCSXd2Q29TLU5IZVpuNURaUjhnY1RvNE12SFIzdmdoOA?oc=5",
           "source": "The Business Times",
-          "pub": "Tue, 22 Sep 2026 11:13 ",
-          "ts": 1790064780.0
+          "pub": "Tue, 22 Sep 2026 14:13 EAT",
+          "ts": 1790075580.0
         },
         {
           "headline": "Apply for the AI Teaching & Learning Innovation Grant Pilot Program",
           "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRURreTdWUUEzSDJNMHo4ZElJVjVNZWpmVlpDYlhNcURCbXptRndidEp3Q2tCdWRDZ1p6Rm01UzNVX0JxZ2pVQUl5NnpwZDNBalh0akkwTktueFFvOUpwS0UwRXpOb3RKcnZkc19HOFBJSUx6QVE4eVVfS2c3UHJuUXg2SnlPZw?oc=5",
           "source": "Case Western Reserve University",
-          "pub": "Tue, 22 Sep 2026 11:00 ",
-          "ts": 1790064000.0
+          "pub": "Tue, 22 Sep 2026 14:00 EAT",
+          "ts": 1790074800.0
         },
         {
           "headline": "Malta’s AI guidance flags human oversight alongside gambling innovation",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUFVlQ0VacUJyZ0JzQ1J5ekcwS0prSWoxUDJrcHFxZzZZQU5qVzQtQ3RiT2xaRG9uUXFVd0tNQWtMQ0xEelhWSFFhTnRIbThMWjZlVEVlUjZxUlZWcGRWZXE3dmZwVm9hRDhiVmZMSUg1cy1ZRFBZc1RKcEx5Qy14ZGN1cFlXa0g0c2VIWDZtSy1GTzFzZnYtWFRhUkV0R0ho?oc=5",
           "source": "igamingbusiness.com",
-          "pub": "Tue, 22 Sep 2026 10:53 ",
-          "ts": 1790063593.0
+          "pub": "Tue, 22 Sep 2026 13:53 EAT",
+          "ts": 1790074393.0
         },
         {
           "headline": "Voranex Africa and Leadaut Partner to Launch AI-Powered Revenue Engine for African Market Expansion",
           "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOLWpjR21EOWQ0M2J4OXlSeGV3ZUNLb2V0RmhaX1NpM3N3bnloaHBMZmJQRk9FYlhyR29MNWkzdDBtWmUtdkNSMU9relZSb0t4WUFGYnhNcWxPUEdsbmNiSXp6TF80Um5IWW00azdHOUk0TEgtcFc1a2Z2N2pCeWkzYldERk50eXhCWkVrbmxrbURQYjhVdndHRXVpZUd0eTB2UjQzUzV6UjVXSGFHUERydThaUGtNdVRqZG5aQ2pPWGdQekR3bDhVc3p0NHJpemJZOHo5bw?oc=5",
           "source": "Techpoint Africa",
-          "pub": "Tue, 22 Sep 2026 10:33 ",
-          "ts": 1790062404.0
+          "pub": "Tue, 22 Sep 2026 13:33 EAT",
+          "ts": 1790073204.0
         },
         {
           "headline": "LLOY: Resilient performance, digital innovation, and AI drive growth amid stable U.K. outlook",
           "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNZUlKUlNtT2dvSkxUU2xjYjNVMTY5SE5YdVFid0pXNldjS1lZZmdhUU9PQmMzcjN6VFRmMjJ1QjFKX3o5c3YwbDF2bUVGb2RyTzRMaTQ3R2RfOTFUQ2FoMWEzMU94Nkl3aGRzNHNBRDd6N2N6YnpoazROSmlMeFpsalZDMXpMMFpqVmUyYlBpbFc1RHJoczFWNHRJczVRbFNYODBkQVd1WWpyTDd3WE5MWUlsR29NQk51WlU0clVKTjZ0Vkc5MHRTM29pZkxXZU1mbU5SYm9LZW9IVncxSWpCMkllT3NTYXQtUVNPdjFLbkc2djd2cUR5U2xWNTJicXZIOHRaeFNYOA?oc=5",
           "source": "tradingview.com",
-          "pub": "Tue, 22 Sep 2026 10:13 ",
-          "ts": 1790061223.0
+          "pub": "Tue, 22 Sep 2026 13:13 EAT",
+          "ts": 1790072023.0
         },
         {
           "headline": "UW-Whitewater education majors use AI-powered ‘student’ to learn to teach math",
           "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBmZlFqY01xVGVCWmo2R0xSVWtmTlBVU3NlMUtmaVNPd1Z4Q1dNYXJXLWw1RkNqaW5XU21ieWswZmxELTMxWHVQbjhPV2FPd3ZiWmVqOUxvTlJuOEFfaTZaWGRiN2J1NHpsNEFnVVYxV3pWS2dVZDNReg?oc=5",
           "source": "WPR",
-          "pub": "Tue, 22 Sep 2026 10:00 ",
-          "ts": 1790060400.0
+          "pub": "Tue, 22 Sep 2026 13:00 EAT",
+          "ts": 1790071200.0
         },
         {
           "headline": "Ruto, Rubio hold talks on trade, AI and regional security",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbS02NmhsQ1pWVUstTGg1dlZZLTliTVU4TkJZdFZfT1ppVzVSZFhoNDh4THpvVTFaTlltQXVLcVF3XzJhN1F1VjJON01sSUNyaHR4Wi12ZllESHdKNHlFQms1ZElWd1JmVk9TMXV4QU9nVXJWR1NOTEdHTVlDUFh4Ym5zdFF1YmZTOGV0V09Bb1EweTM2ZDJJcmpJTQ?oc=5",
           "source": "Citizen Digital",
-          "pub": "Tue, 22 Sep 2026 09:54 ",
-          "ts": 1790060092.0
+          "pub": "Tue, 22 Sep 2026 12:54 EAT",
+          "ts": 1790070892.0
         },
         {
           "headline": "Trading Smarter: Harnessing Artificial Intelligence and Digital Innovation for Seamless and Sustainable Trade in Asia and the Pacific",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5yRHpxcXN0OUdDYzVyTU81OGNlaDdGSVBVYllwaGtIY1JXTEFMano2c2lldzJsdjF3SUN5bUZyRzdyV1NRZ292cHc1SmtjQV9uSV9vbWFHNEt5NERaSko1ajB2R28zT1k?oc=5",
           "source": "International Banker",
-          "pub": "Tue, 22 Sep 2026 09:52 ",
-          "ts": 1790059920.0
+          "pub": "Tue, 22 Sep 2026 12:52 EAT",
+          "ts": 1790070720.0,
+          "summary": "The story is about using AI and digital innovation to improve trade in Asia and the Pacific."
         },
         {
           "headline": "Kenya’s approach to banking AI offers Nigeria a useful test case",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVFpxOEp4V1BxbmQ5cms3Y1dMSVJSejJzLV9CNlNUYmxacFVCSVVhSkVSalo4d3ZYNVdHNWxQZzFIZWR3RExFZnlvb0hpXy1fa3dZb2ZCbjlwaXRlNXhqbTNYNUk2TlR3a0hUTjhLYS1TbURfRkxqaDFjcWhWS2xFU0cwSzl3UkhYVFY3NV95OEhoUQ?oc=5",
           "source": "TheCable",
-          "pub": "Tue, 22 Sep 2026 09:13 ",
-          "ts": 1790057580.0
+          "pub": "Tue, 22 Sep 2026 12:13 EAT",
+          "ts": 1790068380.0,
+          "summary": "Kenya's AI banking strategy provides Nigeria with a valuable example to follow."
         },
         {
           "headline": "Innovation in healthcare roundup: Dedalus, Surgeon.AI, Prime Health",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUW9ocTFHSlE5Zm5sNDZBU2xCUFhsclJBY2Jqdm03eVV1cGN1U0s0WENkM3hyaHBnWTBtUVBZbEZZWUJDaUdfTzlNbmRwR3d6Q3hOS1l0UWhoLV9nYk1NZjBFZVp1TkxqM1dFdlVwbTg4bTRJYjVtRVlMbUlJRURvY250bDdZY181ajBZaHlHZFBGVEFZSGxsdm94Z1Y1VVlsdmc?oc=5",
           "source": "Healthcare Today",
-          "pub": "Tue, 22 Sep 2026 08:41 ",
-          "ts": 1790055666.0
+          "pub": "Tue, 22 Sep 2026 11:41 EAT",
+          "ts": 1790066466.0
         },
         {
           "headline": "Kenya targets AI's real payoff",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcEFaeXQwT0RMeVhMMGE0dDdzZjh2YnMzSFdUUENsRXhlczZQN1pfcVRFcmFhV0dBVHNya1Q2MkVHeTRvQ3hkNzVvOHMxcEZnRko5eWZPNFVObEJDdVNaTlRWdkRhLUs4eU1CUlhMOVRBNTZ2NGRJRHIwRzF1YjNieg?oc=5",
           "source": "ITWeb Africa",
-          "pub": "Tue, 22 Sep 2026 08:11 ",
-          "ts": 1790053895.0
+          "pub": "Tue, 22 Sep 2026 11:11 EAT",
+          "ts": 1790064695.0
         },
         {
           "headline": "5 Ways AI Is Reshaping Student Success",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTFBhSGl0Zl9JdnlLMUd0OGdobFdtUTc4aVRVRDcwV3JIT09kYjBCaC1WaF9RRnU5cnp3OTc0U1pPblA0VDVnQVJmSjl4ZTJERE9tWUxOR19pRTdwOWFxUXNvdEJXVlFQR1hTdGd1b2Vza2tNTUdhMDZ4RXdGUUIxdTVIU2t4LTJNMjJMM0o1MWZBejBIeDFLTXAwUHp5RWRXdDlJaWVDWmotb3VHNEJkWlA4YnFhNG9F?oc=5",
           "source": "Inside Higher Ed",
-          "pub": "Tue, 22 Sep 2026 07:01 ",
-          "ts": 1790049706.0
+          "pub": "Tue, 22 Sep 2026 10:01 EAT",
+          "ts": 1790060506.0
         },
         {
           "headline": "AI specialists and senior project managers now among South Africa’s top 10 hard-to-fill skills",
           "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMUQ4a1NTalVXajdqS1BqUnY4alhsNGl5azUtcHBBNWFyZWpqdEE0cXd3UHBUSldWRm5ObTZ1cF9GS3VhRURvN2J1NUJOR1RrVWtYcFNJSTVUS0w1LU56SmxoTmRHOXIyTXpyRHhSRGpBeXVvU2JBeW12SEJ2NmdNenpKd3J6SDZKVGNETC0tc3pHUEpLSEJFVGxPeTF4TXVKNzUwa0REaG9EdE9KVTlWd3BkUDRRZlZTdmJNV3NqOWNQVm9JMTNCNk1DS1FQMloyOEVtTw?oc=5",
           "source": "Polity.org.za",
-          "pub": "Tue, 22 Sep 2026 06:59 ",
-          "ts": 1790049540.0
+          "pub": "Tue, 22 Sep 2026 09:59 EAT",
+          "ts": 1790060340.0
         },
         {
           "headline": "𝐊𝐞𝐧𝐲𝐚 𝐮𝐫𝐠𝐞𝐝 𝐭𝐨 𝐭𝐮𝐫𝐧 𝐀𝐈 𝐩𝐨𝐭𝐞𝐧𝐭𝐢𝐚𝐥 𝐢𝐧𝐭𝐨 𝐣𝐨𝐛𝐬, 𝐩𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐯𝐢𝐭𝐲 Kenyans have been urged to translate its investments in digital technology and artificial intelligence (AI) into productive ventures, stronger enterprises and improved public serv",
           "link": "https://news.google.com/rss/articles/CBMijwdBVV95cUxPZF9WTy0wUFdnM2U5RThUbzZTMkpKVVN2NzlVWXB0czdQQVNldU1xblBLWkY0MUlrcFVkQUY0VHg3VU1VZDlZUFdieE14bF9hWDg0UVgtaS14TU5fXy1MbTJ4XzZJUWJ3TlptMHEybjdCM0VVcFpEalg4MDZyY3pFTkxDMVJUcTdDQ1otMzFIeFA0alJTM3dmZzdsdWNJZFRjTVFtUDJCSzRGSlBYLWttQ29DYjJJb0dObEhyam40cGIyNU1qOXd6S29uTGl1RVVabFRCN3ZJQWlCUUpEWlM3SFljNTRtQzJKZ3VoZ25weGVkcUphQVl3bjRMem5uQTc1Y0MtVGxjUFM1TXJzcDRCeHlhTE52anM5MHZFWThSdjlFS0s1ekxDNlVjblJld3FERWhPVGNXR2JNTk5Jdy1PYS12ek82T2ZtSzdlNzJPdmZyNGlCTy1BQmVNQ21uSUNvd0xEaHgyY1l5dmdHNEI1dkZyb1hscDlFWm5GU0loSk8weG0waU9wOGc2UmRqNUl2VFZrazhDdWhHT2lSTklwaGNheFF0UTRWRnhkZ3VBdGdwTHZabmJxRWtWTGJQdjRlZEZHOVVYOVpFcWRwcV9EWl91RmwxOHc0cTFiSksxeFF6UUF4aWFNMUpmbGRabVdDQURIcW5SMU9UZFBlZk5zSUpTTUlMNnNnTkJ3UEZlUXpBcFRxWWVzcEkyUjI2RVpYWUZabTZwSkVTb0dQZW1DUDRXbTZKV0lxbXgzQVJfb1ZZdU0xbGFrdXNvbWphSkx0N0VXMWxZOVdwM2NSMm1zZFFRbU5QbTFQQnk2VEJxbERHeFg0RDY3dHBQak0tRVQzcnBPWXI1dElGNDc2T1pKbjgyYllwWDdjSk9KaFBIdjNVaXpQdklKLWhHV3NCOUREdlJuZVJEV0tnWUU5RVBpM1A0ZGxSRmJEbnJobGZMMUxCcGZ4NGZLekVFUUktZHgzTmo2em1zQTdRR0VCYWdGMm01aXpRczduYWNQQ1B2cC0xQUttaVR6NndMYlJOOXdBMkJpNEdrSGtFaEYyMnZVN2VRNEpjTEF0Umd3b0xBSC1fZlp5aUJ0TGZFVGd5SkZqU29oZkFiYW5HMlI1Y1ozSElWVTBBTnBnblJNYlh4dlJIQUd2YU12SGY5OXVJY1pjcFF0WEQyekNpd2o4T1BhbFJnSWFtRVV3ZlhQajliNA?oc=5",
           "source": "facebook.com",
-          "pub": "Tue, 22 Sep 2026 06:57 ",
-          "ts": 1790049449.0
+          "pub": "Tue, 22 Sep 2026 09:57 EAT",
+          "ts": 1790060249.0
         },
         {
           "headline": "China-ASEAN Expo 2026 closes in Nanning, spotlighting AI, innovation, closer regional cooperation",
           "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPeFZDeFduWWpWNGtFWHVPbmRyc1l2b25rSHNUMXJDZHhHRThKS1pOd3dCWkZNZjlpZEZaUWhaWm5vVEFvNFFNMERrU2FMVjlXbFhnVTZTbUlRbGJsY3NSWVhtMC1rYWZhUXRKWHlZNHJWZ1Qxb2FhejBZUVlfRUd3Y3E1eUI1Qmh0b00zTXR4MFBLVFFNa2NrbTVKZVVWdkFWWEpHVl8xUWVaRU10YUhYaHNWQzJlY2NqaUpKeGpyMmoyMVZVcmRJVU9jWkptWmtaQjRVRXlyZXR4VzhVVHJN?oc=5",
           "source": "bastillepost.com",
-          "pub": "Tue, 22 Sep 2026 01:18 ",
-          "ts": 1790029084.0
+          "pub": "Tue, 22 Sep 2026 04:18 EAT",
+          "ts": 1790039884.0
+        },
+        {
+          "headline": "Gov. Moore (D-MD) & Tech Leaders Discuss AI Innovation",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcDdOTEtIVzFsRXJpVkd4ekdKOEUwZElWckU3VzZWdGlmRFN3NzJlOEdNYnB6R3VuNkZudGx2WEg5OXVzWEVoWkhDdEJuVzhqd1ZFQ1JLcGcwSW1rYmFjdjE0Z2I0cVhFTjg2UFh1SlFiaGo3dlBDRDFmemgzZ3ZreVIwdlVCNGdsRV9yRTQzanVtWi1nSU9WdkJLR3c2aHBmbmRFbDBhQkdJQQ?oc=5",
+          "source": "C-SPAN",
+          "pub": "Tue, 22 Sep 2026 02:32 EAT",
+          "ts": 1790033560.0
+        },
+        {
+          "headline": "Students get AI boost in writing, blow to recall",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTFRxMTJXZGlMMG1mTHVxa2VxM0p5Sy02NFRoQ1NHVzgxNU9FV2RBam0zN2R5amt6a3Nva2h0Z29mN0dZaTh6VmtidjZSNjMydFFjdWozTFNZLVgyZ2dNQXJaclo2TmxEcTNEZGpxYnAzZkFQd2M2UUVhSVBtaVZZMTNlMHJjZ1pqWDE5UGN6VlIySy1UNnpQRWlUaV9TZw?oc=5",
+          "source": "Korea JoongAng Daily",
+          "pub": "Tue, 22 Sep 2026 01:03 EAT",
+          "ts": 1790028213.0
         }
       ]
     },
@@ -464,6 +546,13 @@
           "ts": 1790022760.0
         },
         {
+          "headline": "AI is changing the economics of innovation",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBZazNOc2V0MUZzV3hjMGRFOUh3dVVWYWRWcEF2Qm5ZWHdFdmhaejdPdDlRcTd1Zksyc2FUZTVXTUdsU3FzZTNhUzRMWnZ4T2d2SHdhalJRZE40X290c0xmOFJPbHY1YUh2VkhjRVFweVltVV94cm5USGU2X2VZQVk?oc=5",
+          "source": "CNBC Africa",
+          "pub": "Mon, 21 Sep 2026 22:31 EAT",
+          "ts": 1790019117.0
+        },
+        {
           "headline": "Students get AI boost in writing, blow to recall",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTFRxMTJXZGlMMG1mTHVxa2VxM0p5Sy02NFRoQ1NHVzgxNU9FV2RBam0zN2R5amt6a3Nva2h0Z29mN0dZaTh6VmtidjZSNjMydFFjdWozTFNZLVgyZ2dNQXJaclo2TmxEcTNEZGpxYnAzZkFQd2M2UUVhSVBtaVZZMTNlMHJjZ1pqWDE5UGN6VlIySy1UNnpQRWlUaV9TZw?oc=5",
           "source": "Korea JoongAng Daily",
@@ -471,39 +560,46 @@
           "ts": 1790017413.0
         },
         {
-          "headline": "AI is changing the economics of innovation",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBZazNOc2V0MUZzV3hjMGRFOUh3dVVWYWRWcEF2Qm5ZWHdFdmhaejdPdDlRcTd1Zksyc2FUZTVXTUdsU3FzZTNhUzRMWnZ4T2d2SHdhalJRZE40X290c0xmOFJPbHY1YUh2VkhjRVFweVltVV94cm5USGU2X2VZQVk?oc=5",
-          "source": "CNBC Africa",
-          "pub": "Mon, 21 Sep 2026 19:31 ",
-          "ts": 1790008317.0
-        },
-        {
           "headline": "HPD: Juvenile charged after AI-generated explicit photos of middle schoolers shared with classmates",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZUduX25LMzRweTF6QUtGQktwcTE3eUtSal9TSEUzcmdFQ0FQY1dtWmQyVHVjaWxfV2QySDAybjJoQ2o0Skl2aDFEZjdpNV90ZnNoaFRDSGIxNm1qS0pPR21FcXFINl9FNm5tSlhtUkxWeldHLU1pN3Byck5uZGE2MFVXNlk1Sk05OWR4aXNLZFVWWTBqWTZlRXNSV2FfdUVNQ1pmMmlvdjVhVXRo?oc=5",
           "source": "14 News",
-          "pub": "Mon, 21 Sep 2026 17:30 ",
-          "ts": 1790001000.0
+          "pub": "Mon, 21 Sep 2026 20:30 EAT",
+          "ts": 1790011800.0
         },
         {
           "headline": "AI conference highlights nurses' role in healthcare innovation",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNb1liWVlna0RhM3pxMnExdFhLVzV4bV9iUUVBeW0yQ3JHbW9qbUdxaGZ5ODEydXVOMHl6R1JuZkctSnVHM19GX1RwUzBFWTdSb2RNSzBQdzEyRU1ncDJpcDAtREQzZjFHTzh5SmJRR1RpWVNVUFRNb2FtaW91aURwalQzb3RQazlMLUFLUndYMXNmZw?oc=5",
           "source": "kcl.ac.uk",
-          "pub": "Mon, 21 Sep 2026 16:02 ",
-          "ts": 1789995757.0
+          "pub": "Mon, 21 Sep 2026 19:02 EAT",
+          "ts": 1790006557.0
         },
         {
           "headline": "Stanford R&DE Uses AI to Race Swap Students for Advertising",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTF8zZTVjUmJ2Q1R6SDdnQmRFQlZjdnBKZlZxRWNBM0FpdDFQa2pZckZtY0xkSkVyZkQzY0ZFUzJrVnJkdkdIYzY3Y3ZhZ2IxTjkxT0tNVlZxaGZsS1RJaWI4ZUdwbWJrTE5VcW5Pa0tnOHUzbkx3eHBxSEVUaUxsVmRqNVRFcWlCMjdaX2ZXNzY?oc=5",
           "source": "The Stanford Review",
-          "pub": "Mon, 21 Sep 2026 15:37 ",
-          "ts": 1789994250.0
+          "pub": "Mon, 21 Sep 2026 18:37 EAT",
+          "ts": 1790005050.0
         },
         {
           "headline": "Can Nigeria be West Africa's hub for cloud, data centre and AI-compute?",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWTkwam92YXBqekxFa0s1azRlLXFXWFRfR3otcURBN0hWMk56OHlQVmFXR2VjYUVESUcwOUtYOF9PbkVXUFFrRi05U1JhUVl4NHNvVzUyVFl0YldCOEJxSUZCdFBxQzhnVHVwVjdBUUdMOTE0ZFFpZ1ZUckU3TzFHbTFkR2NKNXdxZHkycGxqRktsTElrcS1KOGNTRnY0QTNZRllVY3F4dmFXTkdWRkFhWlhGMC1ROW8?oc=5",
           "source": "CNBC Africa",
-          "pub": "Mon, 21 Sep 2026 15:05 ",
-          "ts": 1789992300.0
+          "pub": "Mon, 21 Sep 2026 18:05 EAT",
+          "ts": 1790003100.0
+        },
+        {
+          "headline": "Kenya Signs Five-Year AI and Data Pact With Stanford's Hoover Institution, Starting With El Niño Monitoring",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYU1pX0F4YnVWWHNEbVEzNXdBOWZoR1BHaW53T0x3aklKbzBSb0dXMHRJUUQySlpLOUY1eU1TVkRXZi01X096WDBhM191TzNlMTBMeTBMS21icnNXS0ZnNFhVSkFqSXZQQklSV2JfQ0E1Rk5ER2g4ZF9ENmVPVXpYNE1jZzR2NVV5Sjkwb3h0Vzljd21Qb1RoRmFmYlZ6NlZqX0YycHQzZDZVYklvLTdWS1FQcndES3Q2YjJkdnBCQWd5VXlC?oc=5",
+          "source": "iAfrica.com",
+          "pub": "Mon, 21 Sep 2026 13:45 EAT",
+          "ts": 1789987510.0
+        },
+        {
+          "headline": "SafariOS: Tanzanian Tourism Operator Commissions AI Concierge Ahead of AFCON 2027",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVjRrRkllN3o0Mks2dFdLYWN5ME5YVWhPUnprMGF5UXAwTVFBRjJtTnNUdFB5RldLSzhBeU5PTEV5enhqb0Y0REs2YVBQQUUyVlZ0c09nSVlFNFlONm5hd19TUnVhM0JPZGRsbnRGNXBPMXh3dS1veUZrUDlVWlR5OExMTzljejRKQXMyUXNDUEJoYlc5Z3pId2thNDBqc0xQaUZr?oc=5",
+          "source": "iAfrica.com",
+          "pub": "Mon, 21 Sep 2026 13:40 EAT",
+          "ts": 1789987230.0
         },
         {
           "headline": "The Pangram Backlash Unfolding on College Campuses",
@@ -513,32 +609,18 @@
           "ts": 1789977600.0
         },
         {
-          "headline": "Kenya Signs Five-Year AI and Data Pact With Stanford's Hoover Institution, Starting With El Niño Monitoring",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYU1pX0F4YnVWWHNEbVEzNXdBOWZoR1BHaW53T0x3aklKbzBSb0dXMHRJUUQySlpLOUY1eU1TVkRXZi01X096WDBhM191TzNlMTBMeTBMS21icnNXS0ZnNFhVSkFqSXZQQklSV2JfQ0E1Rk5ER2g4ZF9ENmVPVXpYNE1jZzR2NVV5Sjkwb3h0Vzljd21Qb1RoRmFmYlZ6NlZqX0YycHQzZDZVYklvLTdWS1FQcndES3Q2YjJkdnBCQWd5VXlC?oc=5",
-          "source": "iAfrica.com",
-          "pub": "Mon, 21 Sep 2026 10:45 ",
-          "ts": 1789976710.0
-        },
-        {
-          "headline": "SafariOS: Tanzanian Tourism Operator Commissions AI Concierge Ahead of AFCON 2027",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVjRrRkllN3o0Mks2dFdLYWN5ME5YVWhPUnprMGF5UXAwTVFBRjJtTnNUdFB5RldLSzhBeU5PTEV5enhqb0Y0REs2YVBQQUUyVlZ0c09nSVlFNFlONm5hd19TUnVhM0JPZGRsbnRGNXBPMXh3dS1veUZrUDlVWlR5OExMTzljejRKQXMyUXNDUEJoYlc5Z3pId2thNDBqc0xQaUZr?oc=5",
-          "source": "iAfrica.com",
-          "pub": "Mon, 21 Sep 2026 10:40 ",
-          "ts": 1789976430.0
-        },
-        {
           "headline": "My class has an AI student",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVzVVRlJpbjVIcm1ablFabVNQQkdJdzRJZkJJbXZRUEE5UUZaSVB0SHNFMEhZeDI1NjNrMVdOc3ZrbnU1SXpLd01PekdZSXl1WjJvSjFvcGp3UDE3ZmplNFJkRmxtY1htY3pncXZsaHZzVnlXaUdjY0xVam9sejhEWlpzWG04QjBBWWhjdVR1TkpuUHloQXBvdWhQMmNfS0tXV1lZak5nVWwzeFB5OUd6NVVOazZXbHc5bWVrZTVQUXBvR0VPMVptTg?oc=5",
           "source": "The Daily Princetonian",
-          "pub": "Mon, 21 Sep 2026 03:34 ",
-          "ts": 1789950840.0
+          "pub": "Mon, 21 Sep 2026 06:34 EAT",
+          "ts": 1789961640.0
         },
         {
           "headline": "The AI paradox: Will technology cure the next pandemic or create it?",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQd01haUVxNXpqRUs5ZlpUZ3JHTGFyZXJrRU5kcnJBYk9NU1V0emhPUXd1d1BDQ1RXYXhFOVliYU1wRXRCZ3pDdm1ULVh4U0xIRXVnMWNUbU9uWlhlMXY4TG1OM1Q4b0RhUFBSYlRQNVhSN2lUTy1rYlhhWmVzNHZ6a29LdEdPUUM0bTFjZXhWRWZlclBsX3lfb0R4d2c3XzhhMXJwbmJhdzFtZzMyM3ZZ?oc=5",
           "source": "Daily Nation",
-          "pub": "Mon, 21 Sep 2026 03:00 ",
-          "ts": 1789948800.0
+          "pub": "Mon, 21 Sep 2026 06:00 EAT",
+          "ts": 1789959600.0
         }
       ]
     }

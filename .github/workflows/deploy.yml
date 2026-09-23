@@ -1,11 +1,12 @@
-name: Build & deploy AI news landing page
+name: Deploy AI news landing page
 
+# site/ is built and committed by weekly_ai_agent.py (runs locally via cron);
+# this workflow only publishes it, so it must not rebuild or overwrite it.
 on:
-  schedule:
-    - cron: "0 9 * * *"   # daily at 09:00 UTC
   workflow_dispatch:       # run manually from the Actions tab
   push:
     branches: [main]
+    paths: ["site/**", ".github/workflows/deploy.yml"]
 
 permissions:
   contents: read
@@ -21,11 +22,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-
-      - name: Build landing page (site only, no Slack post)
-        env:
-          AI_NEWS_SITE_DIR: ${{ github.workspace }}/site
-        run: python3 post_ai_news.py --build-only
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
